@@ -18,4 +18,4 @@ A simple GUI application to remove JSON files from a selected directory and its 
 1. Clone the repository:
    ```sh
    git clone https://github.com/bishumoharana/gTakeoutJsonFileRemover.git
-   cd json-file-remover
+   cd gTakeoutJsonFileRemover
